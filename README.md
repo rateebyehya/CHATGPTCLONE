@@ -20,5 +20,3 @@ Here's a glimpse into what makes it special:
 ----> SUMMARIZATION CAPABILITIES: Thanks to Langchain's ConversationSummaryMemory, users can conveniently recap the conversation with the click of a button. This feature not only saves time but also provides a valuable overview of key points discussed.
 
 👇 👇 👇 In the screenshots below, you can see how Streamlit provides a great UI interphase for AI/Human interaction, allowing users to keep track of conversation history and SUMMARIZE the conversation after they're done CHATTING!!!
-
-----> CHECK OUT the source code on my https://lnkd.in/gA7-V7fK
